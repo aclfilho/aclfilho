@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o André ✌🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andrecoronell)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecoronell/)
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=aclfilho&show_icons=true&theme=dracula)
 
