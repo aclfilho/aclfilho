@@ -1,22 +1,28 @@
+### Olá! Eu sou o André✌🏻
+Estudante de Sistema de Informação, apaixonado por tecnologia e café. 👨🏻‍💻☕
 
-### Olá! Eu sou o André ✌🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecoronell/)
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=aclfilho&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aclfilho&hide_progress=true&theme=dracula)
 ## Tecnologias que uso no meu dia
-
 
 <div style="display: inline_block"><br/>
     <img align='center' alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align='center' alt="Python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+</div> <br/>
 
-Estudante de Sistema de Informação, apaixonado por tecnologia e café. 👨🏻‍💻☕
+## Backend
+
+    - Python
+    - SQL
+    
+
+
+
 
 
 ### Contato:
-📧 coronel.fiho@hotmail.com
-
-📞 79 991055995
+[![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](coronel.filho@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andrecoronellimafilho@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andrecoronell)
