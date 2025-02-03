@@ -12,12 +12,8 @@ Estudante de Sistema de Informação, apaixonado por tecnologia e café. 👨�
     <img align='center' alt="Python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div> <br/>
 
-## Backend
 
-    - Python
-    - SQL
     
-
 
 
 
