@@ -1,6 +1,5 @@
 <div align="center">
   
-  ![Bat-Signal](https://i.imgur.com/mXj5r5v.gif)
   
   # André Coronel | 🦇 Desenvolvedor Backend
   
