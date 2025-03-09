@@ -1,45 +1,32 @@
-<div align="center">
-  
-  
-  # André Coronel | 🦇 Desenvolvedor Backend
-  
-  **“It’s not who I am underneath, but what I do that defines me”** - Batman
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Python+Automation;RPA+Developer;Data+Science" alt="Habilidades" />
-  
-</div>
 
+
+<h1 align="center">🦇 André Coronel Tech Cave 🦇</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Backend+Developer;Data+Automation;Dark+Knight+Analytics" alt="Habilidades" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Batcomputer-Online-FFD700?style=for-the-badge&logo=batman&logoColor=black">
+ 
 ---
 
-### 🦇 Bat-Tools
-| **Categoria**       | **Tecnologias**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **Linguagens**       | ![Python](https://img.shields.io/badge/Python-FFD700?style=flat&logo=python)    |
-| **Automação**        | ![Selenium](https://img.shields.io/badge/Selenium-2E2E2E?style=flat&logo=selenium) ![UiPath](https://img.shields.io/badge/UiPath-FFD700?style=flat) |
-| **Análise de Dados** | ![Pandas](https://img.shields.io/badge/Pandas-2E2E2E?style=flat&logo=pandas) ![PowerBI](https://img.shields.io/badge/Power_BI-FFD700?style=flat&logo=powerbi) |
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=aclfilho&show_icons=true&theme=dark&title_color=FFD700&icon_color=2E2E2E)
 
----
 
-### 🏗️ Projetos Recentes
+###  Projetos Recentes
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**BatBot**](https://github.com/aclfilho/RPA) | Sistema de automação de processos | `Python` `Selenium` `RPA` |
+| [**BatBot**](https://github.com/aclfilho/RPA) | Sistema de coleta e armazena dados via API | `Python` `Selenium` `RPA` |
 | [**Gotham Analytics**](https://github.com/aclfilho/Projeto-LH-CD) | Plataforma de análise preditiva | `Pandas` `Scikit-learn` 
 | [**Bat-Sonar Skywatch**](https://github.com/aclfilho/Radar-Aereo) | Radar aéreo  | `Selenium` `Pandas` `Requests` |
 
 ---
 
+### 🛠️ **Bat-Tech Stack**  
+![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=0055ff)
+![](https://img.shields.io/badge/FastAPI-2E2E2E?style=flat&logo=fastapi)
+![](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+![](https://img.shields.io/badge/RPA-232F3E?style=flat&logo=amazonaws)
 
-
-
-![Batman Activity](https://github-readme-activity-graph.vercel.app/graph?username=aclfilho&theme=react-dark&bg_color=0d1117&hide_border=true&color=FFD700&line=2E2E2E&point=FFD700)
-
-### 🏆 Bat-Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=aclfilho&theme=matrix&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=aclfilho&show_icons=true&theme=dark&title_color=FFD700&icon_color=2E2E2E)
-
-
+---
 
 ### 🦇 Envie um Sinal do Morcego
 
