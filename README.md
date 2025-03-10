@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🦇 André Coronel Tech Cave 🦇</h1>
+<h1 align="center"> Tech Cave 🦇</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Backend+Developer;Data+Automation;Dark+Knight+Analytics" alt="Habilidades" />
 
 <p align="center">
@@ -9,6 +9,8 @@
 ---
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=aclfilho&show_icons=true&theme=dark&title_color=FFD700&icon_color=2E2E2E)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aclfilho&layout=compact&theme=dark&title_color=FFD700&icon_color=2E2E2E)
 
 
 ###  Projetos Recentes
