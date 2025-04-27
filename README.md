@@ -19,7 +19,7 @@ def about_me():
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aclfilho&show_icons=true&theme=dark)](https://github.com/aclfilho)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aclfilho&show_icons=true&theme=dracula)](https://github.com/aclfilho)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aclfilho&layout=compact&theme=dark)](https://github.com/aclfilho)
 
 
