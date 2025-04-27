@@ -3,7 +3,6 @@
 `Desenvolvedor Backend | Uso café e código para resolver problemas`
 
 ##  Sobre Mim
-```python
 def about_me():
     print("Backend Developer | Python Enthusiast")
     print("Building robust and scalable APIs")
@@ -28,5 +27,5 @@ def about_me():
 ##  Contatos Profissionais
 
 [![LinkedIn](https://img.shields.io/badge/-André_Filho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecoronell)
-[![Email](https://img.shields.io/badge/-andré@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coronel.filho@hotmail.com)
+[![Email](https://img.shields.io/badge/-coronel.filho@hotmail.com-D14836?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:coronel.filho@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579991055995)
